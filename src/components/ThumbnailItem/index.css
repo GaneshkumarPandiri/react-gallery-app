@@ -1,0 +1,11 @@
+/* Write your code here. */
+.thumb-list-style {
+  list-style-type: none;
+  margin: 10px;
+}
+.thumb-image-style {
+  opacity: 0.4;
+}
+.active-thumb {
+  opacity: 1;
+}

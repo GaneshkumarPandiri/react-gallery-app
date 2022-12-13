@@ -1,0 +1,25 @@
+/* Write your code here. */
+.thumbs-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.main-container {
+  display: flex;
+  margin: 25px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.image-style {
+  height: 400px;
+  width: auto;
+}
+.main-heading {
+  font-size: large;
+  font-family: roboto;
+}
+.para {
+  font-family: roboto;
+}
